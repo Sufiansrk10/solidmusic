@@ -1,7 +1,7 @@
 {
   "name": "solid music repo",
   "description": "Open Source bot to stream media trough Telegram Voice Chat",
-  "repository": "https://github.com/aditya-vx/solidmusic",
+  "repository": "https://github.com/Sufiansrk10/solidmusic",
   "stack": "container",
   "env": {
     "API_ID": {
